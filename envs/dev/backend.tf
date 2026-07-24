@@ -1,4 +1,4 @@
-# backend configurations
+# backend configurations and
 
 terraform {
   backend "s3" {
